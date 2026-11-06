@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=200&section=header&text=CONDOR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
